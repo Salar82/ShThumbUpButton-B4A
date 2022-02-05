@@ -1,6 +1,5 @@
 # ShThumbUpButton-B4A
 Wrapped B4A library from https://github.com/ldoublem/ThumbUp
-- ---
 
 ## Preview 
 ![B4A](https://github.com/Salar82/ShThumbUpButton-B4A/blob/master/Preview/preview.gif)
@@ -56,12 +55,10 @@ Private Sub ShThumbUpView1_StateChange (Like As Boolean)
 	'Log($"Like: ${Like}"$)  ' TODTO
 End Sub
 ```
-----
 
 ## About Me
 ###### A developer in Iran :)
 
-----
 
 ## License
 ```MIT License
