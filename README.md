@@ -4,6 +4,10 @@ Wrapped B4A library from https://github.com/ldoublem/ThumbUp
 ## Preview 
 ![B4A](https://github.com/Salar82/ShThumbUpButton-B4A/blob/master/Preview/preview.gif)
 
+
+## [Download Library](https://github.com/Salar82/ShThumbUpButton-B4A/raw/master/Download/ShThumbUpButton.zip)
+
+
 ## Features
 - ### Designer Support
 - ### Simple to use
